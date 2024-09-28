@@ -7,9 +7,12 @@
 # IP-CIDR6: 7
 # TOTAL: 69
 DOMAIN-SUFFIX,emby.misakaf.org
+DOMAIN-SUFFIX,emby2.misakaf.org
+DOMAIN-SUFFIX,emby.aca.beat
 DOMAIN-SUFFIX,stream1.misakaf.org
 DOMAIN-SUFFIX,stream2.misakaf.org
 DOMAIN-SUFFIX,stream3.misakaf.org
+DOMAIN-SUFFIX,stream4.misakaf.org
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
